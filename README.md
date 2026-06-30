@@ -10,7 +10,7 @@ A Python tool that connects to a live Microsoft Azure subscription and generates
 - Generates a formatted HTML report ready for client presentation
 
 ## Why it matters
-Cloud advisory engagements require clear, client-ready deliverables. This tool automates the assessment phase — turning raw Azure data into an executive-ready report that highlights governance gaps and recommendations.
+Cloud advisory engagements require clear, client-ready deliverables. This tool automates the assessment phase by turning raw Azure data into an executive-ready report that highlights governance gaps and recommendations.
 
 ## Technologies used
 - Python 3.13
